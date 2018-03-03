@@ -666,9 +666,9 @@
 	\renewcommand{\arraystretch}{0}
 }
 
-\newcommand*\ecvBasic{\ecv@dcbasickey}
-\newcommand*\ecvIndependent{\ecv@dcindepkey}
-\newcommand*\ecvProficient{\ecv@dcprofkey}
+\newcommand*\ecvA{\ecv@dcbasickey}
+\newcommand*\ecvB{\ecv@dcindepkey}
+\newcommand*\ecvC{\ecv@dcprofkey}
 
 
 \def\ecv@kern{\kern0.5pt}
