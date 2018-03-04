@@ -670,6 +670,18 @@
 \newcommand*\ecvIndependent{\ecv@dcindepkey}
 \newcommand*\ecvProficient{\ecv@dcprofkey}
 
+% Commands for printing header names/other terms
+\newcommand*\ecvWorkExperience{\ecv@WorkExperience}
+\newcommand*\ecvEducation{\ecv@Education}
+\newcommand*\ecvSkills{\ecv@Skills}
+\newcommand*\ecvSkillsCommunication{\ecv@SkillsCommunication}
+\newcommand*\ecvSkillsOrganisational{\ecv@SkillsOrganisational}
+\newcommand*\ecvSkillsJobRelated{\ecv@SkillsJobRelated}
+\newcommand*\ecvSkillsComputer{\ecv@SkillsComputer}
+\newcommand*\ecvSkillsOther{\ecv@SkillsOther}
+\newcommand*\ecvSkillsDriving{\ecv@SkillsDriving}
+\newcommand*\ecvAchievement{\ecv@Achievement}
+\newcommand*\ecvCurrent{\ecv@Current}
 
 \def\ecv@kern{\kern0.5pt}
 %\def\ecv@kern{}
