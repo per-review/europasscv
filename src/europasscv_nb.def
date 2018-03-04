@@ -47,6 +47,19 @@
 \def\ecv@dcbasickey{\ecv@utf{Basisbruker}}
 \def\ecv@dcindepkey{\ecv@utf{Selvstendig bruker}}
 \def\ecv@dcprofkey{\ecv@utf{Dyktig bruker}}
+% Other headers/terms
+\def\ecv@WorkExperience{\ecv@utf{Arbeidserfaring}}
+\def\ecv@Education{\ecv@utf{Utdanning og opplæring}}
+\def\ecv@Skills{\ecv@utf{Kompetanse og ferdigheter}}
+\def\ecv@SkillsCommunication{\ecv@utf{Kommunikasjonskompetanse}}
+\def\ecv@SkillsOrganisational{\ecv@utf{Organisatorisk kompetanse}}
+\def\ecv@SkillsJobRelated{\ecv@utf{Jobbrelatert kompetanse}}
+\def\ecv@SkillsComputer{\ecv@utf{Digital kompetanse}}
+\def\ecv@SkillsOther{\ecv@utf{Annen kompetanse}}
+\def\ecv@SkillsDriving{\ecv@utf{Førerkort}}
+\def\ecv@Achievement{\ecv@utf{Andre opplysninger}}
+\def\ecv@Current{\ecv@utf{d.d.}}
+
 
 % Width of language columns
 \def\ecv@langcola{0.15}
